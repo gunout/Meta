@@ -56,7 +56,9 @@ Analyse Financière de Meta (Facebook, WhatsApp, Instagram)
 
         Indicateurs de performance
 
-Le programme génère à la fois des graphiques visuels et des insights analytiques spécifiques à chaque plateforme Meta. ( TERMINAL , TABLEUR ) 
+Le programme génère à la fois des graphiques visuels et des insights analytiques spécifiques à chaque plateforme Meta. 
+
+( TERMINAL , TABLEUR ) 
 
 By Gleaphe 2025 . 
 
